@@ -108,7 +108,11 @@
     background: #c48930;
   }
   
+ 
   .display{
-    color : black;
+    background-color: white;
+  }
+
+  table.table{
     background-color: white;
   }

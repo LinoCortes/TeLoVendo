@@ -47,3 +47,11 @@ document.addEventListener("DOMContentLoaded", function() {
     })
   
   });
+
+
+  //datatable
+  $(document).ready( function () {
+    $('#Tabla').DataTable();
+} );
+
+let table = new DataTable('#Tabla');

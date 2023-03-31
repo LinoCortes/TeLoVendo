@@ -53,5 +53,5 @@ document.addEventListener("DOMContentLoaded", function() {
   $(document).ready( function () {
     $('#Tabla').DataTable();
 } );
-
+//inicia datatables
 let table = new DataTable('#Tabla');
